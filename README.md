@@ -8,21 +8,22 @@ SELF-DISCOVER is a groundbreaking framework that revolutionizes LLM reasoning by
 ## [SELF-DISCOVER: Empowering LLMs with Self-Directed Reasoning](https://arxiv.org/abs/2402.03620)
 
 ## _Screenshots:_
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true)](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true))
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true)](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true))
+![About](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true)
 
-![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png?raw=true))
+![Main](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true)
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_full_answer.png?raw=true)))
+![Models](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png?raw=true)
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/settings.png?raw=true)))
+![Full Answer](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_full_answer.png?raw=true)
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_mode.png?raw=true)))
+![Settings](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/settings.png?raw=true)
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/work_mode.png?raw=true)))
+![Self-Discover Mode](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_mode.png?raw=true)
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_chat.png?raw=true)))
+![Work Mode](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/work_mode.png?raw=true)
+
+![Chat](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_chat.png?raw=true)
 
 ## Key Features
 * Groq & OpenAI API support
