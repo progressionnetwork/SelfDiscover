@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:flutter_svg/svg.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:self_discover/screens/result_screen.dart';
 import 'package:self_discover/widgets/custom_button.dart';
@@ -230,8 +231,8 @@ class _MainScreenState extends State<MainScreen> {
               children: [
                 // Add a logo at the top
                 Center(
-                  child: Image.asset(
-                    'assets/logo.png', // Make sure to add your logo image to the assets folder and update the path here
+                  child: SvgPicture.asset(
+                    'assets/logo.svg', // Make sure to add your logo image to the assets folder and update the path here
                     height: 250, // Adjust the size according to your needs
                   ),
                 ),
