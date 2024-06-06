@@ -8,11 +8,21 @@ SELF-DISCOVER is a groundbreaking framework that revolutionizes LLM reasoning by
 ## [SELF-DISCOVER: Empowering LLMs with Self-Directed Reasoning](https://arxiv.org/abs/2402.03620)
 
 ## _Screenshots:_
-![alt text](https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png)
+![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png))
 
-![alt text](https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png)
+![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png))
 
-![alt text](https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png)
+![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png))
+
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_full_answer.png)))
+
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/settings.png)))
+
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_mode.png)))
+
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/work_mode.png)))
+
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_chat.png)))
 
 ## StringHeur: Strings Heuristic Analyzer
 StringHeur is a powerful tool designed to detect and classify potential strings in various file formats using regexp matching and heuristic rules. The primary goal of this tool is to improve malware analysis by effectively identifying suspicious strings and providing valuable insights into the behavior of potentially malicious files.
