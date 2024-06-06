@@ -8,9 +8,9 @@ SELF-DISCOVER is a groundbreaking framework that revolutionizes LLM reasoning by
 ## [SELF-DISCOVER: Empowering LLMs with Self-Directed Reasoning](https://arxiv.org/abs/2402.03620)
 
 ## _Screenshots:_
-![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true))
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true)](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true))
 
-![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true))
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true)](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true))
 
 ![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png?raw=true))
 
