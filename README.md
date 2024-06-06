@@ -8,27 +8,21 @@ SELF-DISCOVER is a groundbreaking framework that revolutionizes LLM reasoning by
 ## [SELF-DISCOVER: Empowering LLMs with Self-Directed Reasoning](https://arxiv.org/abs/2402.03620)
 
 ## _Screenshots:_
-![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png))
+![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/3.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/about.png?raw=true))
 
-![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png))
+![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/2.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/main.png?raw=true))
 
-![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png))
+![alt text]([https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png?raw=true))
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_full_answer.png)))
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_full_answer.png?raw=true)))
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/settings.png)))
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/settings.png?raw=true)))
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_mode.png)))
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_mode.png?raw=true)))
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/work_mode.png)))
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/work_mode.png?raw=true)))
 
-![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_chat.png)))
-
-## StringHeur: Strings Heuristic Analyzer
-StringHeur is a powerful tool designed to detect and classify potential strings in various file formats using regexp matching and heuristic rules. The primary goal of this tool is to improve malware analysis by effectively identifying suspicious strings and providing valuable insights into the behavior of potentially malicious files.
-
-## Overview
-StringHeur is capable of analyzing parsed strings from various sources, such as MalwareAnalyser.io's output of Windows cmd.exe PE files. It uses a combination of regexp rules and heuristic analysis to detect and classify suspicious strings, making it an invaluable tool for malware analysts and security researchers.
+![alt text]([[https://github.com/progressionnetwork/SelfDiscover/blob/master/1.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/models.png](https://github.com/progressionnetwork/SelfDiscover/blob/main/screenshots/selfdiscover_chat.png?raw=true)))
 
 ## Key Features
 * Groq & OpenAI API support
@@ -117,13 +111,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 If you have any questions, feel free to contact us on telegram @uberwow.
 
-## Acknowledgements
-Special thanks to the MalwareAnalyser.io team for providing a powerful malware analysis platform.
-This project was inspired by the need for more advanced string analysis in malware research.
-
 ## *TODO:*
-* Add more regexp rules;
-* Fix current regexp rules;
-* Add heuristic rules to detect suspected strings;
-* Add more testcases;
-* Rewrite to python;
+* Add more models;
+* Add a researcher agent;
+* Add compiled binaries to Release;
+* Add more usecases;
